@@ -34,17 +34,18 @@
     // Insert code here to initialize your application
     
     [m_pButtonPostNotification setTitle:@"Post Notification [NSNotificationCenter]"];
-    [m_pButtonPostDistributedNotification setTitle:@"Post Notification [NSDistributedNotificationCenter"];
+    [m_pButtonPostDistributedNotification setTitle:@"Post Notification [NSDistributedNotificationCenter]"];
     [m_pTextFieldResult setStringValue:@"initialized"];
     
-//    [[NSNotificationCenter defaultCenter] addObserver:self
-//                                             selector:@selector(didReceiveNoti:)
-//                                                 name:NSNOTIFICAION_NAME
-//                                               object:nil];
-    [[NSDistributedNotificationCenter defaultCenter] addObserver:self
-                                                        selector:@selector(didReceiveDistributedNoti:)
-                                                            name:NSDISTRIBUTEDNOTIFICATION_NAME
-                                                          object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(didReceiveNoti:)
+                                                 name:NSNOTIFICAION_NAME
+                                               object:nil];
+    
+//    [[NSDistributedNotificationCenter defaultCenter] addObserver:self
+//                                                        selector:@selector(didReceiveDistributedNoti:)
+//                                                            name:NSDISTRIBUTEDNOTIFICATION_NAME
+//                                                          object:nil];
 
 }
 
@@ -53,6 +54,7 @@
 {
     // Insert code here to tear down your application
     
+    [[NSNotificationCenter defaultCenter] removeObserver:self];
     [[NSDistributedNotificationCenter defaultCenter] removeObserver:self];
 }
 
@@ -85,19 +87,22 @@
 }
 - (IBAction)onClickedDistributedNotification:(id)sender
 {
-    NSNotification *notification
-        = [[NSNotification alloc]
-           initWithName:[[[NSBundle mainBundle] infoDictionary]
-                         objectForKey:(NSString *)kCFBundleIdentifierKey]
-           object:nil
-           userInfo:@{@"Application Name" : [[NSRunningApplication currentApplication] localizedName]}];
+//    NSNotification *notification
+//        = [[NSNotification alloc]
+//           initWithName:[[[NSBundle mainBundle] infoDictionary]
+//                         objectForKey:(NSString *)kCFBundleIdentifierKey]
+//           object:nil
+//           userInfo:@{@"Application Name" : [[NSRunningApplication currentApplication] localizedName]}];
+//
+    
+    printf("onClickedDistributedNotification:\n");
         
-        [[NSDistributedNotificationCenter defaultCenter] postNotification:notification];
-    //    printf("onClickedDistributedNotification:\n");
-//    NSDictionary<NSString *, NSNumber*> *dictionaryUserInfo = @{};
-//    [[NSNotificationCenter defaultCenter] postNotificationName:NSDISTRIBUTEDNOTIFICATION_NAME
-//                                                        object:nil
-//                                                      userInfo: dictionaryUserInfo];
+        
+    NSDictionary<NSString *, NSNumber*> *dictionaryUserInfo = @{};
+    [[NSDistributedNotificationCenter defaultCenter] postNotificationName:NSDISTRIBUTEDNOTIFICATION_NAME
+                                                        object:nil];
+    
+    // it will be delivered to another process 'macOS Notification Demo2'
 }
 
 
