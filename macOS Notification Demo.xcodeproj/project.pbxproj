@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F825B6BE289A61B40017CA18 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F825B6BD289A61B40017CA18 /* AppDelegate.m */; };
+		F825B6BE289A61B40017CA18 /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = F825B6BD289A61B40017CA18 /* AppDelegate.mm */; };
 		F825B6C0289A61B60017CA18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F825B6BF289A61B60017CA18 /* Assets.xcassets */; };
 		F825B6C3289A61B60017CA18 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = F825B6C1289A61B60017CA18 /* MainMenu.xib */; };
 		F825B6C5289A61B60017CA18 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F825B6C4289A61B60017CA18 /* main.m */; };
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		F825B6B9289A61B40017CA18 /* macOS Notification Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "macOS Notification Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F825B6BC289A61B40017CA18 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		F825B6BD289A61B40017CA18 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F825B6BD289A61B40017CA18 /* AppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = AppDelegate.mm; sourceTree = "<group>"; };
 		F825B6BF289A61B60017CA18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F825B6C2289A61B60017CA18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		F825B6C4289A61B60017CA18 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				F825B6BC289A61B40017CA18 /* AppDelegate.h */,
-				F825B6BD289A61B40017CA18 /* AppDelegate.m */,
+				F825B6BD289A61B40017CA18 /* AppDelegate.mm */,
 				F825B6BF289A61B60017CA18 /* Assets.xcassets */,
 				F825B6C1289A61B60017CA18 /* MainMenu.xib */,
 				F825B6C4289A61B60017CA18 /* main.m */,
@@ -133,7 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F825B6C5289A61B60017CA18 /* main.m in Sources */,
-				F825B6BE289A61B40017CA18 /* AppDelegate.m in Sources */,
+				F825B6BE289A61B40017CA18 /* AppDelegate.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,7 +201,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -253,7 +253,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -269,7 +269,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2G9GHN3H28;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -295,7 +295,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2G9GHN3H28;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";

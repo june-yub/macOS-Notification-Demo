@@ -5,6 +5,483 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>031FB2DA-D470-4EB8-A0CF-4C7892DDFC98</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>031FB2DA-D470-4EB8-A0CF-4C7892DDFC98.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681212117.69912004</real>
+			<key>timeStoppedRecording</key>
+			<real>681254302.58727705</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>031FB2DA-D470-4EB8-A0CF-4C7892DDFC98</string>
+		</dict>
+		<key>0A1D184A-5567-428D-B786-AA72628E35BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0A1D184A-5567-428D-B786-AA72628E35BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681211168.19792104</real>
+			<key>timeStoppedRecording</key>
+			<real>681211765.43325806</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>0A1D184A-5567-428D-B786-AA72628E35BE</string>
+		</dict>
+		<key>1BDE4A04-456A-4973-A1DA-D2955A5BD2A7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1BDE4A04-456A-4973-A1DA-D2955A5BD2A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681210147.357674</real>
+			<key>timeStoppedRecording</key>
+			<real>681210198.74056494</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>1BDE4A04-456A-4973-A1DA-D2955A5BD2A7</string>
+		</dict>
+		<key>259F4014-224D-4E06-ACBC-C1FD09A9A0A7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>259F4014-224D-4E06-ACBC-C1FD09A9A0A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681210311.28276098</real>
+			<key>timeStoppedRecording</key>
+			<real>681210341.06840599</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>259F4014-224D-4E06-ACBC-C1FD09A9A0A7</string>
+		</dict>
+		<key>59D73EA2-E8FE-429C-8E0C-BAE0890ACDBA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>59D73EA2-E8FE-429C-8E0C-BAE0890ACDBA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681211767.48069596</real>
+			<key>timeStoppedRecording</key>
+			<real>681211959.93626797</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>59D73EA2-E8FE-429C-8E0C-BAE0890ACDBA</string>
+		</dict>
+		<key>694868BC-6F56-41FC-9849-E649AE76096B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>694868BC-6F56-41FC-9849-E649AE76096B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681208965.40108204</real>
+			<key>timeStoppedRecording</key>
+			<real>681208991.19142306</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>694868BC-6F56-41FC-9849-E649AE76096B</string>
+		</dict>
+		<key>6E66BE57-86CA-4DF3-A808-E23B4D5A3591</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6E66BE57-86CA-4DF3-A808-E23B4D5A3591.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681208992.84122002</real>
+			<key>timeStoppedRecording</key>
+			<real>681209000.99137199</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>6E66BE57-86CA-4DF3-A808-E23B4D5A3591</string>
+		</dict>
+		<key>807ED9BA-1E98-4133-8D24-6F5BCDFAAB0A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>807ED9BA-1E98-4133-8D24-6F5BCDFAAB0A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681254303.69416404</real>
+			<key>timeStoppedRecording</key>
+			<real>681310010.21173596</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>807ED9BA-1E98-4133-8D24-6F5BCDFAAB0A</string>
+		</dict>
+		<key>A132E313-31B0-4303-9111-6643FA91F200</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A132E313-31B0-4303-9111-6643FA91F200.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681211960.89692998</real>
+			<key>timeStoppedRecording</key>
+			<real>681211975.72680902</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>A132E313-31B0-4303-9111-6643FA91F200</string>
+		</dict>
+		<key>A3F084CD-0D0C-40E9-8BCE-D50998541C71</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A3F084CD-0D0C-40E9-8BCE-D50998541C71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681210199.70458102</real>
+			<key>timeStoppedRecording</key>
+			<real>681210339.29444695</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>A3F084CD-0D0C-40E9-8BCE-D50998541C71</string>
+		</dict>
+		<key>A684DA01-3CDD-42A5-8EE2-9672C1F81C3D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A684DA01-3CDD-42A5-8EE2-9672C1F81C3D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681209272.052912</real>
+			<key>timeStoppedRecording</key>
+			<real>681210145.15629399</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>A684DA01-3CDD-42A5-8EE2-9672C1F81C3D</string>
+		</dict>
+		<key>B90AF8F7-B7ED-449F-900B-1ADACCCA65B6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B90AF8F7-B7ED-449F-900B-1ADACCCA65B6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681210263.03238904</real>
+			<key>timeStoppedRecording</key>
+			<real>681210341.68791795</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>B90AF8F7-B7ED-449F-900B-1ADACCCA65B6</string>
+		</dict>
+		<key>C94416A7-F047-431A-BA44-CD48508A4F98</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C94416A7-F047-431A-BA44-CD48508A4F98.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681209260.47479498</real>
+			<key>timeStoppedRecording</key>
+			<real>681209271.80634904</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>C94416A7-F047-431A-BA44-CD48508A4F98</string>
+		</dict>
+		<key>F2C5BC6A-70FC-4FA2-8961-258F132E09DF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F2C5BC6A-70FC-4FA2-8961-258F132E09DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Notification Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Notification Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run macOS Notification Demo</string>
+			<key>timeStartedRecording</key>
+			<real>681211985.67179203</real>
+			<key>timeStoppedRecording</key>
+			<real>681212116.72237504</real>
+			<key>title</key>
+			<string>Run macOS Notification Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>F2C5BC6A-70FC-4FA2-8961-258F132E09DF</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
